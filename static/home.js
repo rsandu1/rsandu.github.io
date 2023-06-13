@@ -45,7 +45,7 @@ ScrollReveal().reveal('.home-content h1,.about-img',{origin:'left'});
 ScrollReveal().reveal('.home-content p,.about-content',{origin:'right'});
 
 const typed = new Typed('.multiple-text',{
-    strings:['from Queens NY','go to Fordham University'],
+    strings:['am from Queens NY','go to Fordham University'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
